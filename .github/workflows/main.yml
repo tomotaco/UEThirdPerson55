@@ -29,6 +29,6 @@ jobs:
           PACKAGE: true
           PAK: true
           ARCHIVE: true
-          ARCHIVE_PATH: 'C:/Archives/MyGame'
+          ARCHIVE_PATH: 'e:/Temp/ThirdPerson55'
           NULLRHI: true
-          EDITOR: false
+          EDITOR: true
