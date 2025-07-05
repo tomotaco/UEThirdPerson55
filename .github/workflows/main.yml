@@ -31,4 +31,4 @@ jobs:
           ARCHIVE: true
           ARCHIVE_PATH: 'e:/Temp/ThirdPerson55'
           NULLRHI: true
-          EDITOR: true
+          EDITOR: false
