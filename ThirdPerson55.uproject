@@ -8,11 +8,6 @@
 			"Name": "ThirdPerson55",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
-		},
-		{
-			"Name": "GitSourceControl",
-			"Type": "UncookedOnly",
-			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
