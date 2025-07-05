@@ -16,7 +16,7 @@
 	"Modules": [
 		{
 			"Name": "GitSourceControl",
-			"Type": "Runtime",
+			"Type": "UncookedOnly",
 			"LoadingPhase": "Default"
 		}
 	]
